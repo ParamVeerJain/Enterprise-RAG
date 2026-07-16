@@ -1,0 +1,7 @@
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy
+pydantic-settings
+asyncpg
+asyncio
+pgvector
